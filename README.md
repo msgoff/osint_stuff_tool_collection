@@ -297,7 +297,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 | Link | Description |
 | --- | --- |
-| [Global Terriorism Database](https://twitter.com/cyb_detective/status/1578772549919559681) | Info about more than 200,000 terrorist incidents from 1970 to 2020 (worldwide): - dozens of advanced search options; - statistical data for each group of incidents; - many details on each incident, with sources; |
 | [Freedomhouse.org](http://freedomhouse.org/explore-the-map) | map of the world that shows the scores of different countries on the following indicators (on a scale of 1 to 100) |
 | [Crimemapping.com](https://www.crimemapping.com/) | pick a state, a police agency, and what crimes and where were committed in the territory under its control in the last 24 hours, a week, or a month. |
 | [Citizen.com](https://citizen.com/explore) | live map of incidents (mainly shooting) that happened in the last hours in major U.S. cities |
@@ -416,7 +415,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [app.any.run](https://app.any.run) | interactive worldwide map of cyber threats statistics (last 24 hour) |
 | [Web Cam Taxi](https://www.webcamtaxi.com/en/russia/moscow-province/badoo-office.html) | open webcams around the world |
 | [Radio Garden](http://radio.garden/visit/moscow/MQfEnBji) | select a local radio station on the world map and listen to what's playing at the moment |
-| [TorMap](https://twitter.com/cyb_detective/status/1536682540265873408) | Worldwide online map of Tor Nodes |
 | [GeoWiFi](https://github.com/GONZOsint/geowifi) | Search WiFi geolocation data by BSSID and SSID on different public databases (Wigle, Apple, OpenWifi, API Mylnikov). |
 | [GPSJam](https://gpsjam.org/) | GPS Interfence Map shows where GPS jamming systems could be operating on a particular day (most often associated with military conflicts). |
 | [Infrapedia](https://www.infrapedia.com/) | Worldwide detailed online map of Submarine Cables, Data Centers, Terrestrial Fibers, Internet Exchanges |
@@ -517,13 +515,11 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 [](#social-media)Social Media
 =============================
 
-### [](#twitter)Twitter
 
 | Link | Description |
 | --- | --- |
 | [Stweet](https://github.com/markowanga/stweet) | Opensource Python library for scraping tweets (by user, by hashtag, by keyword). NO LOGIN OR API KEY REQUIRED. |
 | [BirdHunt](https://birdhunt.co/) | A very simple tool that allows you to select a geolocation/radius and get a list of recent tweets made in that place. |
-| [Twitter account detector](https://chrome.google.com/webstore/detail/twitter-account-detector/papcdbgfejihdinhieggiamjnkclhkck/related) | A simple and fast Chrome extension that finds all Twitter accounts on a site. |
 | [Follower Wonk/Compare](https://followerwonk.com/compare/) | this service allows you to find out how many followers two (or three) Twitter accounts have in common. |
 | [Tweepsmap Unfollows](https://tweepsmap.com/dash/unfollows) | displayed unsubscribed accounts (list for the one week available for free) |
 | [app.truthnest.com](https://app.truthnest.com/) | best tool for Twitter account investigation |
@@ -537,7 +533,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Tweet Beaver Friends Following](https://tweetbeaver.com/friendsfollowing.php) |     |
 | [Tweet Topic Explorer](http://tweettopicexplorer.neoformix.com/#n=NYTimes) |     |
 | [Twitter Money Calculator](https://influencermarketinghub.com/twitter-money-calculator/) |     |
-| [Twitter Analytics](https://analytics.twitter.com/) | gather detailed infromation about your own account |
 | [Twemex](https://chrome.google.com/webstore/detail/twemex-sidebar-for-twitte/amoldiondpmjdnllknhklocndiibkcoe/related) | Twitter sidebar with: quick commands for searching your own tweets, lists, users tweets and replies; quick links to quotes of current tweet, user's most liked tweets and conversations. |
 | [Vicintias.io](https://www.vicinitas.io/free-tools/download-twitter-followers) | very fast export of information about Twitter account followers to XLSX |
 | [Twitter Shadow Ban Checker](https://shadowban.yuzurisa.com/) | If you suddenly notice that your account's tweets have decreased in views and the flow of audience has slowed down, it's worth checking to see if your account has been shadow-banned. |
@@ -546,7 +541,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [DO ES FOLLOW](https://doesfollow.com/) | quick check if one user is subscribed to another on Twitter |
 | [Sleeping Time](http://sleepingtime.org/) | determining the approximate sleeping time of a user based on analysis of the timing of a tweet |
 | [Tweet Tunnel](https://tweettunnel.com/reverse.php) | tool for quick and comfortable viewing old tweet's of someone account |
-| [Twitter users directory](https://twitter.com/i/directory/) |     |
 | [FollowerAudit](https://www.followeraudit.com) | In-depth analysis of Twitter followers. Identifies inactive and fake accounts, assesses followers by the number of tweets, profile information (biography, geolocation, links, profile picture). |
 | [Foller.me](https://foller.me/) | Twitter account detailed analyze |
 | [Get day Twitter Trends](https://getdaytrends.com/) |     |
@@ -738,7 +732,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Twitch Stream Filter](https://twitch-tools.rootonline.de/channel_previews.php) | Search streams and filter results by title, game, language, number of viewers. |
 | [Untwitch.com](https://untwitch.com) | Twitch video downloader |
 | [Justlog](https://logs.ivr.fi/) | Enter the username and the name of the channel to see all of the user's messages in that channel. The results can be downloaded as TXT |
-| [Pogu Live](https://twitter.com/PogULive) | Tool that allows you to watch sub only or deleted VODs for free. It works because when a streamer deletes a video, iit is not deleted from Twitch's servers immediately. |
 | [Twitch Recover](https://github.com/TwitchRecover/TwitchRecover) | Twitch VOD tool which recovers all VODs including those that are sub only or deleted. |
 | [Twitch Database](https://www.twitchdatabase.com/following) | Following List + Channel Metadata + Role Lookup |
 | [Twitch Insights](https://twitchinsights.net/) | Account stats; Game ranking; Extensions stats; List of all Twitch bot; Check user status by nickname or ID; List of Twitch team (history before 2020) |
@@ -1488,7 +1481,6 @@ Google lens is not too user friendly for investigations. But this tool will help
 | [Cryptocurrency alerting](https://cryptocurrencyalerting.com/) | track spending and deposits in Bitcoin and Ethereum wallets |
 | [Learnmebitcoin.com](https://learnmeabitcoin.com/tools/path/) | find transactions between two Bitcoin adresses |
 | [Coinwink.com](https://coinwink.com/) | allows you to set up email notifications in case Bitcoin (or other #cryptocurrency) rate rises (falls) above (below) a certain value |
-| [BlockCypher](https://blockcypher.herokuapp.com/) | Blockchain explorer for Bitcoin, Ethereum, Litecoin, DogeCoin, Dash. Getting into about address, transactions and block hashes, block number or wallet name. |
 | [Bitcoin Abuse Database](https://www.bitcoinabuse.com/) | A simple tool to check whether a Bitcoin address has been used for ransomware, blackmailers, fraudsters and view incident reports. |
 | [BreadCrumbs](https://www.breadcrumbs.app/) | Enter your BTC or ETH wallet number to see a graph of associated wallets (with transaction history and lot of other details).  |
 | [A TON of Privacy](https://github.com/aaarghhh/a_TON_of_privacy) | Tool for OSINT investigations on TON NFTs. Search info (balance, scam status etc) by Telegram nickname, phone number or domain. |
@@ -2360,7 +2352,6 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Dracos Linux](https://dracos-linux.org) |     |
 | [ArchStrike](https://archstrike.org) |     |
 | [Septor Linux](https://septor.sourceforge.io) |     |
-| [Parrot Security](https://twitter.com/ParrotSec) |     |
 | [osintBOX](https://github.com/Dimaslg/osintBOX) | Parrot OS Home edition modified with the popular OSINT tools: Dmitry, ExifTool, Maltego, Sherlock, SpiderFoot and much more. |
 | [Pentoo Linux](https://www.pentoo.ch) |     |
 | [Deft Linux](https://deftlinux.net) |     |
