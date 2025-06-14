@@ -1094,7 +1094,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Webemailextractor.com](https://www.webemailextractor.com/) | extract email's and phone numbers from the website or list of website |
 | [cookieserve.com](https://www.cookieserve.com/) | detailed website cookie analyze |
 | [What every Browser knows about you](https://webkay.robinlinus.com) | This site not only shows what information your browser provides to third-party sites, but also explains how it can be dangerous and suggests what extensions will help to ensure your anonymity. |
-| [User Agent Parser](https://developers.whatismybrowser.com/useragents/parse/) | User Agent String can be found, for example, in the logs of your site (or someone else's), in the source code of some CLI tools for #osint and many other places. |
 
 ### [](#websites-files-metadata-analyze-and-files-downloads)Website's files metadata analyze and files downloads
 
