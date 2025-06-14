@@ -684,7 +684,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | Link | Description |
 | --- | --- |
 | [Map of Reddit](https://anvaka.github.io/map-of-reddit/?x=255000&y=381000&z=615624.4584051393) | an alternative format for interacting with Reddit |
-| [Reddit Insvestigator](https://www.redditinvestigator.com/) |     |
 | [redditcommentsearch.com](http://redditcommentsearch.com) | getting a list of all comments by a Reddit user with a certain name |
 | [dashboard.laterforreddit.com/analysis](https://dashboard.laterforreddit.com/analysis) | examine popular post trends for a given subreddit |
 | [Reddit Timer](https://ebof1223-reddit-timer.netlify.app/) | Get last week's hourly activity schedule for a specific subreddit |
