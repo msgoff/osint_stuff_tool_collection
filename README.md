@@ -453,7 +453,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 
 | Link | Description |
 | --- | --- |
-| [Observer](http://observer.farearth.com/observer/) | service allows you to watch data from different orbiting satellites in the record. The data is available in 15-30 minutes after recording. |
 | [USGS Earth Explorer](https://earthexplorer.usgs.gov/) | more than 40 years old collection of satellite imagery |
 | [Landviewer](https://eos.com/products/landviewer/) | satellite observation imagery tool that allows for on-the-fly searching, processing and getting valuable insights from satellite data to tackle real business issues |
 | [Copernicus Open Access Hub](https://scihub.copernicus.eu/) | ESA's open access portal to Sentinel data |
