@@ -3,8 +3,6 @@
      <h1>Cyber Detective's OSINT tools collection</h1>
      <img alt="GitHub stars" src="https://img.shields.io/github/stars/cipher387/osint_stuff_tool_collection"> 
      <img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/osint_stuff_tool_collection"> <br>
-     <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat">
-     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcipher387%2Fosint_stuff_tool_collection&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
      <br>
      <br>
 </div>
@@ -18,6 +16,10 @@ Thank you for following me! [@cyb_detective](https://cybdetective.com)
 
 
 Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookbook](https://github.com/netlas-io/netlas-cookbook) for details and examples.
+
+<i>I have been working on this repository since the summer of 2021. Many tools are constantly becoming obsolete, no longer supported or working at all. But I don't remove from the list so you can use their names and descriptions to find analogues.</i>
+
+
 
 ## Most important categories
 
@@ -114,6 +116,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
     - [Databases of domains](#databases-of-domains)
     - [Website traffic look up](#website-traffic-look-up)
     - [Website technology look up](#website-technology-look-up)
+    - [Find directories](#find-directories)
     - [Source Code Analyzes](#source-code-analyzes)
     - [Broken Links Checkers](#broken-links-checkers)
     - [URL unshorteners](#url-unshorteners)
@@ -154,6 +157,8 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 - [Science](#science)
 - [Passwords](#passwords)
 - [Emails](#emails)
+- [MBOX files](#mbox)
+- [IDs](#ids)
 - [Nicknames](#nicknames)
 - [Phone numbers](#phone-numbers)
 - [Universal Contact Search and Leaks Search](#universal-contact-search-and-leaks-search)
@@ -469,6 +474,10 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [ApolloMapping Image Hunter](https://imagehunter.apollomapping.com/) | Select an area on the map using a special tool (square and polygon) and get a list of dozens of images obtained from satellites or by aerial photography (from the early 2000s as well as those taken a couple of days ago). |
 | [keyhole engelsjk](https://keyhole.engelsjk.com/) | Experimental visualization tool for 1.3 million+ declassified spy satellite imagery (1960 to 1984 years). |
 | [Maxar](https://discover.maxar.com/) | Highlight an area on the world map and get dozens of satellite images of that area taken at different times (mostly 2021-2023) |
+| [Planet Gallery](https://www.planet.com/latest-satellite-imagery-gallery/) | A collection of satellite images to compare changes in specific locations before and after any significant events (fires, military actions, floods, animal migrations, etc.). Hundreds of locations around the world. |
+
+
+
 
 ### [](#military-tracking)Military tracking
 
@@ -566,6 +575,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Spaces Down](https://spacesdown.com/) | Twitter Spaces download service (available after the broadcast ends). Works for quite a long time. It took about 5 minutes to generate an MP3 file with an audio recording of the 46-minute space. |
 | [Twitter Control Panel](https://github.com/insin/control-panel-for-twitter) | A cross-browser extension that allows you to have maximum control over your Twitter feed: Hide retweets, quote tweets, who to follow etc; Reduce "engagement"; Hide UI items; Remove algoritmic content |
 | [Wayback Tweets](https://waybacktweets.streamlit.app/) | A tool to quickly view tweets saved on http://archive.org No need to open a link to each tweet in a separate window It's possible to filter only deleted tweets |
+| [Twitter Video Downloader](https://x-downloader.com) | Online (X) Twitter download service to save videos, broadcasts, screenshots and MP3 audio from Twitter |
 
 
 ### [](#youtube)YouTube
@@ -581,6 +591,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [YouTube MetaData Viewer](https://citizenevidence.amnestyusa.org/) |     |
 | [PocketTube](https://chrome.google.com/webstore/detail/pockettube-youtube-subscr/kdmnjgijlmjgmimahnillepgcgeemffb/related) | YouTube Subscription Manager |
 | [YouTube comment Finder](https://ytcomment.kmcat.uk/) |     |
+| [YouTube comment Sorting](https://youtube-comments.io/get-comments) |     |
 | [YouTube Comment Downloader](https://github.com/egbertbouman/youtube-comment-downloader) | easy to install and fast tool for downloading YouTube comments in txt/json. Does NOT require authorization or API keys. |
 | [Montage.meedan.com](https://montage.meedan.com) | Search #YouTube video by date (uploaded or recording) and by geolocation. |
 | [Slash Tags](https://github.com/huhmit/slashtags) | tool for recommending YouTube tags and displaying related statistical data from search keyword(s) |
@@ -866,6 +877,9 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [gitSome](https://github.com/chm0dx/gitSome) | A tool for gathering information from #Github: - extract all emails from commits of a particular user (top of the pic); - gathering info about repository (with forks); - search info by domain name |
 | [Open Source Software Insight](https://ossinsight.io/) | Amazing service that allows to analyze developers and repositories data based on more than 5 billion (!) Github Events. |
 | [Map of Github](https://anvaka.github.io/map-of-github/) | Enter the name of the repository, see its links to other projects, and its place on the map of all Github repositories. Notice how small 1337 island is. |
+| [Github Release Stats](https://tooomm.github.io/github-release-stats/) | Estimate popularity of Github repo. Tool displays the number of downloads for each project release + some additional information. |
+
+
 
 ### [](#wikipedia)Wikipedia
 
@@ -1023,6 +1037,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Fast Google Dorks Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan) | Search the website for vulnerable pages and files with sensitive information using 45 types of Google Dorks. |
 | [GO DORK](https://github.com/dwisiswant0/go-dork) | Fast (like most #osint scripts written in #golang) tool for automation work with Google Dorks. |
 | [Dork Scanner](https://github.com/Balgogan/dorkscanner) | NOT support Google. Only Bing, ASK and [http://WoW.com](http://WoW.com) (AOL) search engines. Can work with very long lists of queries/documents (in .txt files) |
+| [Google Bug Bounty Dorks Generator](https://taksec.github.io/google-dorks-bug-bounty/) | Generate Google Dorks for searching  juicy extensions, open redirects, code leaks, cloud storages, file upload endpoints and more. |
 | [ixss.warsong.pw](http://ixss.warsong.pw/xssor/) | very old service for making XSS (Cross Site Scripting) faster and easier |
 | [ReconFTW](https://github.com/six2dez/reconftw) | tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities |
 | [LFITester](https://github.com/kostas-pa/LFITester) | Tool which tests if a server is vulnerable to Local File Inclusion (LFI) attack |
@@ -1048,6 +1063,11 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [LogSensor](https://github.com/Mr-Robert0/Logsensor) | #Python tool to discover login panels, and POST Form SQLi Scanning. Support multiple hosts scanning, targeted SQLi form scanning and proxies. |
 | [SOC Multi Tool](https://chrome.google.com/webstore/detail/soc-multi-tool/diagjgnagmnjdfnfcciocmjcllacgkab/) | Chrome Extension for quick: IP/Domain Reputation Lookup  IP/ Domain Info Lookup Hash Reputation Lookup (Decoding of Base64 & HEX using CyberChef File Extension & Filename Lookup and more  |
 | [PyDork](https://github.com/blacknon/pydork) | Tool for automation collecting Google, Bing, DuckDuckGo, Baidu and Yahoo Japan search results (images search and suggestions). Note the huge(!) number of options for customizing search results. |
+| [CVE Binary Tool](https://github.com/intel/cve-bin-tool) | #Python tool to find known vulnerabilities in software, using data from the NVD), list of CVEs, Redhat, OSV and GAD. 200+ checkers in one tool |
+
+
+
+
 
 
 ### [](#searchers-scrapers-extractors-parsers)Searchers, scrapers, extractors, parsers
@@ -1097,6 +1117,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | Link | Description |
 | --- | --- |
 | [Metagoofil](https://github.com/laramies/metagoofil) | finds pdf/xlsx/docx files and other documents on the site/server, analyzes their metadata, and outputs a list of found user names and email addresses |
+| [MetaDetective](https://github.com/franckferman/MetaDetective) | A simple tool that analyzes the metadata of files in a specific directory and extracts important information from them (names of document creators, names of users who made changes, etc.). |
 | [Aline](https://github.com/ferreiraklet/Aline) | a very simple tool that simply downloads files of a certain type, located on a certain domain and indexed by Google. |
 | [Goblyn](https://github.com/loseys/Goblyn) | tool focused to enumeration and capture of website files metadata. It will search for active directories in the website and so enumerate the files, if it find some file it will get the metadata of file |
 | [DORK DUMP](https://github.com/dievus/msdorkdump) | Looks for Google-indexed files with doc, docx, ppt, pptx, csv, pdf, xls, xlsx extensions on a particular domain and downloads them. |
@@ -1104,6 +1125,12 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [AutoExif](https://github.com/SirCryptic/autoexif) | A simple script to read and delete metadata from images and ACVH videos. |
 | [DumpsterDiver](https://github.com/securing/DumpsterDiver) | Tool can analyze big volumes of data and find some "secrets" in the files (passwords and hardcoded password, SSH, Azure and AWS keys etc) |
 | [HACHOIR](https://github.com/vstinner/hachoir) | One of the most powerful tools for work with files metadata with the most detailed settings. |
+| [Metadata Parser](https://github.com/jvanasco/metadata_parser) | A simple #Python library to help retrieve website metadata by URL (description, location, keywords, keywords, images, content author names, and more). |
+| [MetaFinder](https://github.com/Josue87/MetaFinder) | At first glance, it seems like just another tool that searches for documents on a company's website in search engines and analyzes their metadata. But. It searches Baidu and that makes it quite effective. |
+
+
+
+
 
 ### [](#backlinks-analyze)Backlinks analyze
 
@@ -1191,6 +1218,10 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Cert4Recon](https://github.com/mathis2001/Cert4Recon) | Very quick and simple subdomain enumeration using [http://crt.sh](http://crt.sh). |
 | [Miteru](https://github.com/ninoseki/miteru) | Experimental phishing kit detection tool. It collects phishy URLs from phishing info feeds and checks each phishy URL whether it enables directory listing and contains a phishing kit (compressed file) or not |
 | [Web Check](https://web-check.as93.net/) | Get detailed report about IP or domain: Location SSL Info Headers Domain and host names Whois DNS records Crawl riles Cookies Server Info Redirects Server status TXT Config |
+| [CheckPhishAI](https://checkphish.bolster.ai/) | An online tool that finds registered domain typosquats and analyzes them for suspicious activity. |
+
+
+
 
 ### [](#subdomains-scanbrute)Subdomains scan/brute
 
@@ -1253,10 +1284,18 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [CMLabs Tools](https://tools.cmlabs.co/en/technology-lookup) |     |
 | [Snov.io technology checker](https://app.snov.io/techcheck/main) | type name of #webdev technology (jquery, django, wordpress etc) and get the list of websites, which used it. |
 
+### [](#find-directories)Find directories
+
+| Link | Description |
+| --- | --- |
+| [Dirhunt](https://github.com/Nekmo/dirhunt) | Tool for search and analyze directories, can find interesting things if the server has the "index of" mode enabled (also useful if the directory listing is not enabled). |
+
+
 ### [](#source-code-analyzes)Source Code Analyzes
 
 | Link | Description |
 | --- | --- |
+| [CARBON14](https://github.com/Lazza/Carbon14) | A simple Python tool that helps you determine when (approximately) some content was published. It find the Last-Modified header of linked images on a particular web page. |
 | [View Rendered Source](https://chrome.google.com/webstore/detail/view-rendered-source/ejgngohbdedoabanmclafpkoogegdpob) | The standard browser source code view did not display the actual source code. View Rendered Source extension solve this problem. It shows the html code after all JavaScript functions (full page load, page scrolling, and other user actions) are executed |
 | [Retire.js](https://chrome.google.com/webstore/detail/retirejs/moibopkbhjceeedibkbkbchbjnkadmom/related) | GoogleChrome extension for scanning a web app for use of vulnerable JavaScript libraries |
 | [OpenLink Structured Data Sniffer](https://chrome.google.com/webstore/detail/openlink-structured-data/egdaiaihbdoiibopledjahjaihbmjhdj/related) | GoogleChrome extension which reveals structured metadata (Microdata, RDFa, JSON-LD, Turtle, etc.) embedded within HTML documents. |
@@ -1756,6 +1795,8 @@ Google lens is not too user friendly for investigations. But this tool will help
 | [Archive-org-Downloader](https://github.com/MiniGlome/Archive.org-Downloader) | A simple #python script for downloading books from [http://archive.org](http://archive.org) in PDF format. You can adjust image resolution to optimize file size and work with link lists. |
 | [WayMore](https://github.com/xnl-h4ck3r/waymore) | Search archived links to domain in Wayback Machine and Common Crawl (+ Urlscan and Alien Vault OTX). |
 | [Wayback Keywords Search](https://github.com/lorenzoromani1983/wayback-keyword-search) | A tool that allows you to download all the pages of a particular domain from http://archive.org for a particular month or day, and quickly do a keyword search on those pages. |
+| [Web Archive Google Chrome Extension](https://github.com/husseinphp/web-archive) | Simple Chrome Extensions for getting information about current URL using http://archive.org CDX API |
+| [WAYBACK GOOGLE ANALYTICS](https://github.com/bellingcat/wayback-google-analytics) | A tool that finds all Google Analytics ID in URL (including old ones from Web Archive). |
 
 
 
@@ -1790,7 +1831,7 @@ Google lens is not too user friendly for investigations. But this tool will help
 | [DailyEarth](https://dailyearth.com/) | Worldwide catalog of daily newspapers (since 1999). 52 USA states. 73 countries. |
 | [visLibri](https://www.vialibri.net/) | World’s largest search engine for old, rare & second-hand books. Search across 140+ websites worldwide.(Ebay, Amazone, Booklooker, Catawiki, Antiqbook etc) |
 | [FACTINSECT](https://factinsect.com/) | Free online tool for automating #factchecking. In order to confirm or deny some information, the service provides several arguments with references to information sources. |
-
+| [DocumentCloud](https://www.documentcloud.org/documents/) | 5 million + publicly available documents. Search by user, organization, project, creation date and many other parameters. There are many documents from government organizations and large corporations. |
 
 
 [](#science)Science
@@ -1841,6 +1882,17 @@ Google lens is not too user friendly for investigations. But this tool will help
 | [PassHunt](https://github.com/Viralmaniar/Passhunt) | Command line tool for searching of default credentials for network devices, web applications and more. Search through 523 vendors and their 2084 default passwords |
 | [BugMenot](http://bugmenot.com) | login and passwords for public accounts in different services |
 | [Search-That-Hash](https://github.com/HashPals/Search-That-Hash) | Python tool for automating password hash detection (based on Hashcat). It can work with single strings as well as with long lists of hashes from a text file. Useful for investigating data leaks |
+| [Dehashed](https://dehashed.com/) | Tool for searching for data leaks (search by email, password, phone, username, domain etc)
+DeHashed API tool allows to automate this process and search large lists of input data. |
+
+[](#ids) IDs
+=======================
+
+| Link | Description |
+| --- | --- |
+| [KD6-3.7](https://github.com/duk3r4/KD6-3.7) | Python tool for getting additional information about ID holders from different countries |
+
+
 
 [](#emails)Emails
 =================
@@ -1871,6 +1923,18 @@ Google lens is not too user friendly for investigations. But this tool will help
 | [ZEHEF](https://github.com/N0rz3/Zehef) | A simple #Python tool that collects information about an email. It checks its reputation in different sources and finds possible accounts in different social networks (some functions may not work properly, the tool is in development). |
 | [Castrickclues](https://castrickclues.com/) | Online tool to get Google and Skype account information by email, phone number or nickname (free).  + search for accounts in other services (paid). |
 
+
+
+[](#mbox) MBOX files
+=================
+
+| Link | Description |
+| --- | --- |
+| [MAILTO ANALYZER](https://github.com/soxoj/mailto_analyzer) | .mbox files analyzer will show your email address exposure on various services.  Helps you find all the sites you are registered. The tool does not transfer data to third-party servers. |
+
+
+
+
 [](#nicknames)Nicknames
 =======================
 
@@ -1898,7 +1962,7 @@ Google lens is not too user friendly for investigations. But this tool will help
 | [Go Sherlock](https://github.com/Longwater1234/go-sherlock) | #GO version of Project Sherlock (https://github.com/sherlock-project/sherlock…). It's quite fast. Checks if a user with a certain nickname exists on a thousand sites in a few tens of seconds. |
 | [User Searcher](https://www.user-searcher.com) | User-Searcher is a powerful and free tool to help you search username in 2000+ websites. |
 | [Digital Footprint Check](https://digitalfootprintcheck.com/checks/free-checker.html) | Similar to WhatsMyName but with options to extend search into email, phone and social handles. |
-
+| [Unavatar](https://unavatar.io/john) | Simple free online tool for finding avatars. Replace john in link to nickname, email or domain name |
 
 [](#phone-numbers)Phone numbers
 ===============================
@@ -1939,7 +2003,7 @@ Google lens is not too user friendly for investigations. But this tool will help
 | [SlaveVoyages.org](https://slavevoyages.org/resources/names-database) | the Trans-Atlantic and Intra-American slave trade databases are the culmination of several decades of independent and collaborative research by scholars drawing upon data in libraries and archives around the Atlantic world. |
 | [FEI Database Person Search](https://data.fei.org/Person/Search.aspx) | If the person you are researching is related to equestrian sports, check the FEI database for information about him or her. There you can find cards of riders, horse owners, grooms and fans around the world. |
 | [Name Variant Search](https://bellingcat.github.io/name-variant-search/#gsc.tab=0) | Type in a name and get a list of possible spelling options (+ quick links to Google, DuckDuckGo and Facebook searches for each option) |
-
+| [LEAKEY](https://github.com/rohsec/LEAKEY/) | #bash script which checks and validates for leaked credentials (45 types). |
 
 
 
@@ -2006,6 +2070,12 @@ Google lens is not too user friendly for investigations. But this tool will help
 | [Xmind Works](https://xmind.works/) | Online tool for open and editing .xmind files |
 | [CLIGPT](https://github.com/paij0se/cligpt) | The simplest tool possible (with as few settings as possible) for working with ChatGPT API at the command line and using in bash scripts. |
 | [MarkWhen](https://markwhen.com/) | Free online tool that converts Markdown to graphical timeline. It will come in handy for investigations where you need to investigate time-bound events, or simply for quick project planning. Export results in .SVG, .PNG, .MW or share link. |
+| [MALWOVERVIEW](https://github.com/alexandreborges/malwoverview) | Get maximum information about potentially malicious files and links from: Virus Total, Hybrid Analysis, URLHaus, PolySwarm, Mal Share, Alien Vault, Malpedia, ThreatFox, Triage, InQuest  |
+| [LADDER](https://github.com/everywall/ladder) | A tool to enhance web browsing experience: bypass paywalls and remove ads, no tracking and logs, modify URL parameters, http-headers and HTML code of web pages and more. |
+
+
+
+
 
 ### [](#visualization-tools)Visualization tools
 
