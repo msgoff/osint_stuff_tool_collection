@@ -1962,7 +1962,6 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [DaProfiler](https://github.com/TheRealDalunacrobate/DaProfiler) | Get emails, social medias, adresses of peoples using web scraping and google dorking |
 | [SingleHire](https://www.signalhire.com/candidates/47dc037faace4abeb0727d6f4d0f3079) | Tool for search contacts by full name, location and job title. Shows phones, emails, #Linkedin, #Facebook, #Twitter and other social media profile |
 | [Social Analyzer](https://github.com/qeeqbox/social-analyzer) | tool for searching nickname profiles on more than 300 sites |
-| [SovaWeb](http://sovaweb.herokuapp.com/) | web version of a famous Russian bot in Telegram for searching by email, nickname, IMSI, IMEI, MSISDN, BTS, IP, BSSID |
 | [BehindTheNames](https://www.behindthename.com) | when conducting an in-depth search for information about a person, it is important to check the different pronunciations of their name and diminutives. This service will help you find them |
 | [My CSE for search in 48 pastebin sites](https://cipher387.github.io/pastebinsearchengines/) |     |
 | [Psbdmp.ws](https://psbdmp.ws) | search sensitive user data by 25 759 511 pastebins |
