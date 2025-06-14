@@ -1561,7 +1561,6 @@ Google lens is not too user friendly for investigations. But this tool will help
 | [Libraries.io](https://libraries.io) | search by 4 690 628 packages across 32 different package managers |
 | [The Scraper](https://github.com/champmq/TheScrapper) | Simple tool for scrapping emails and social media accounts from the website's source code. |
 | [CloudScraper](https://github.com/jordanpotti/CloudScraper) | Scrape URL's of the target website and find links to cloud resources: Amazonaws, Digitaloceanspaces, Azure (windows net), Storage.googleapis, Aliyuncs |
-| [Complete Email Scraper](https://freemailscraper.herokuapp.com/complete-website-email-scraper) | Paste the link to the site and the bot finds the sitemap. The bot then goes through all the links on the site looking for email addresses (strings contains @). |
 | [Python Code Checker](https://extendsclass.com/python-tester.html) | quick find errors in code |
 | [Github Search](https://github.com/gwen001/github-search) | collection of Github investigation command line tools. Explore users, employes, endpoints,surveys and grab the repos |
 | [Sploitus](https://sploitus.com/) | exploit and hacker's tools search engine |
