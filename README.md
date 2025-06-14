@@ -737,7 +737,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Sully Gnome](https://sullygnome.com/) | detailed analysis of #Twitch streamer stats |
 | [Twitch Stream Filter](https://twitch-tools.rootonline.de/channel_previews.php) | Search streams and filter results by title, game, language, number of viewers. |
 | [Untwitch.com](https://untwitch.com) | Twitch video downloader |
-| [Twitch Overlap](https://stats.roki.sh/) | shows the viewer and audience overlap stats between different channels on Twitch. Currently tracks all channels over 1000 concurrent viewers. Data updates every 30 minutes. |
 | [Justlog](https://logs.ivr.fi/) | Enter the username and the name of the channel to see all of the user's messages in that channel. The results can be downloaded as TXT |
 | [Pogu Live](https://twitter.com/PogULive) | Tool that allows you to watch sub only or deleted VODs for free. It works because when a streamer deletes a video, iit is not deleted from Twitch's servers immediately. |
 | [Twitch Recover](https://github.com/TwitchRecover/TwitchRecover) | Twitch VOD tool which recovers all VODs including those that are sub only or deleted. |
