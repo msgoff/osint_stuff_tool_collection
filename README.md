@@ -1484,7 +1484,6 @@ Google lens is not too user friendly for investigations. But this tool will help
 | [Bitcoin Abuse Database](https://www.bitcoinabuse.com/) | A simple tool to check whether a Bitcoin address has been used for ransomware, blackmailers, fraudsters and view incident reports. |
 | [BreadCrumbs](https://www.breadcrumbs.app/) | Enter your BTC or ETH wallet number to see a graph of associated wallets (with transaction history and lot of other details).  |
 | [A TON of Privacy](https://github.com/aaarghhh/a_TON_of_privacy) | Tool for OSINT investigations on TON NFTs. Search info (balance, scam status etc) by Telegram nickname, phone number or domain. |
-| [Wallet Labels](https://www.walletlabels.xyz/) | Search across more than 7.5M #Ethereum addresses labeled to easily identify wallets and exchange |
 
 
 [](#messengers)Messengers
