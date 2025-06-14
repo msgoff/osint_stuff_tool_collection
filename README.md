@@ -291,7 +291,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | --- | --- |
 | [Ride With GPS](https://ridewithgps.com/users) |     |
 | [Wandermap](http://www.wandermap.net/en/#/z15/55.7522011,37.6156006/terrain) | hiking routes world map |
-| [Runmap](http://www.runmap.net/en/?tab=new#/z15/55.7522011,37.6156006/terrain) | running routes world map |
 | [Bikemap](https://www.bikemap.net/) | biking route world map |
 
 ### [](#politics-conflicts-and-crisis)Politics, conflicts and crisis
