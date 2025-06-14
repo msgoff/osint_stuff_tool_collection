@@ -1616,7 +1616,6 @@ Google lens is not too user friendly for investigations. But this tool will help
 | [Gifcities.org](https://gifcities.org/) | GIF Search Engine from archive.org |
 | [Presearch.org](https://presearch.org/) | privately decentralized search engine, powered by #blockchain technology |
 | [milled.com](https://milled.com/search) | search engine for searching through the texts of email marketing messages |
-| [Orion](https://github.com/Araekiel/orion) | open-Source Search Engine for social networking websites. |
 | [PacketTotal](https://packettotal.com/app/search) | .pcap files (Packet Capture of network data) search engine and analyze tool. Search by URL, IP, file hash, network indicator, view timeline of dns-queries and http-connections, download files for detailed analyze. |
 | [SearXNG](https://github.com/searxng/searxng) | Free internet metasearch engine which aggregates results from more than 70 search services. No tracking. Can be used over Tor |
 | [Yeggi](https://www.yeggi.com/) | 3D printer model search engine. There are more than 3 million 700 thousand objects in the database. There are both paid and free. |
