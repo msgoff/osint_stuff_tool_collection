@@ -1725,7 +1725,6 @@ Google lens is not too user friendly for investigations. But this tool will help
 | [SDorker](https://github.com/TheSpeedX/SDorker) | Type the Google Dork and get the list of the pages, that came up with this query. |
 | [XGS](https://github.com/XAMFRA/XGS) | allows you to search for links to onion sites using Google Dorks (site:[http://onion.cab](http://onion.cab), site:[http://onion.city](http://onion.city) etc) |
 | [Google Email Extractor](https://chrome.google.com/webstore/detail/google-email-extractor/aabpdmlmkpedpigeignclfmodjhplllj/related) | Extract emails from Google Search Results |
-| [SEQE.me](https://seqe.me/) | online #tool for constructing search queries using advanced search operators simultaneously for five search engines |
 | [Bright Local Search Result Checker](https://www.brightlocal.com/local-search-results-checker/) | shows what #Google search results look like for a particular query around the world (by exact address) |
 | [Auto Searcher](https://chrome.google.com/webstore/detail/auto-searcher/hhggekcjcdgenbgejmkhineppclnkbkn/related) | One by one types words from a given list into the search bar of #Google, #Bing, or another search engine |
 | [2lingual.com](https://2lingual.com/) | google search in two languages simultaneously in one window |
