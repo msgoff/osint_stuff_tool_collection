@@ -2078,7 +2078,6 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Time graphics](https://time.graphics/) | Powerful tool for analytics of time-based events: a large number of settings for the visualization of time periods, integration with Google Drive, YouTube, Google Maps, 12 ways to export results (PNG, JSON, PPTX etc.) |
 | [Gephi](https://github.com/gephi/gephi) | fast and easy to learn graph analytics tool with a lot of modules (plugins) |
 | [Tobloef.com](https://tobloef.com/text2mindmap/) | text to mind map |
-| [Cheat sheet maker](http://cheatsheet-maker.herokuapp.com) | simple tool for creating cheat sheets |
 | [JSONHero](https://jsonhero.io/) | Free online tool for visualizing data in JSON format. With tree structure display, syntax highlighting, link preview, pictures, colors and many other interesting features. |
 
 ### [](#routinedata-extraction-automation)Routine/Data Extraction Automation
