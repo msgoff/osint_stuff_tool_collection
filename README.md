@@ -336,7 +336,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Find Food Support](https://findfoodsupport.withgoogle.com/) | find places where you can get free food by address (USA) |
 | [Aqicn](https://aqicn.org/map/world/) | Air pollution gauges on the map |
 | [Average Gamma Dose Rate Map](https://eea.government.bg/eea/main-site/bg/output/daily/bulletin-en.html) | Shows measurements of environmental radioactivity in the form of gamma dose rate for the last 24 hours. These measurements originate from some 5500 stations in 39 countries |
-| [OpenIndoor](https://app.openindoor.io/#17/48.11915/-1.70188) | A world map where you can see how different buildings look from the inside (number of floors, location of stairways, rooms, doors, etc.). The database of the service is not very large yet, but the project is constantly being developed. |
 | [Poweroutage](https://poweroutage.com/) | Map with real-time power outage statistics by country and region. |
 | [Open Benches](https://openbenches.org/) | Worldwide map of 22,756 memorial benches (added by users). |
 | [Sondehub](https://sondehub.org/) | Worldwide map of radiosondes with detailed info (altitude, coordinates, frequency, manufacturer, sonde-type and much more) |
