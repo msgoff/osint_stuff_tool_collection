@@ -860,7 +860,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Github Trending Archives](https://github.com/willin/github-trending) | Github trending archive for a specific date. |
 | [GitHub Repository Size](https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblneaedefcnopcjepgkci) | simple google chrome extension to view Github repo size |
 | [Gitcolombo](https://github.com/soxoj/gitcolombo) | simple and fast tool that collects information (edit statistics and contacts) about repository contributors on Github |
-| [Coderstats](https://coderstats.net) | enter Github username and get detailed statistics of profile: languages, issues, forks, stars and much more |
 | [GitHub-Chart](https://chrome.google.com/webstore/detail/github-chart/apaldppjjcjgjddfobajdclccgkbkkje/related) | it shows a visual representation of the temporal distribution of user changes in the repositories. You can visually see "productivity peaks" and see which days of the week a person is most active |
 | [Zen](https://github.com/s0md3v/Zen) | Tool for gathering emails of #Github users |
 | [GithubCompare](https://www.githubcompare.com) | When searching for OSINT tools on #Github, you will often come across several repositories with the same name. This service will help to visually compare them, determine which one was created earlier, which one has more forks and stars. |
