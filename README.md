@@ -2135,7 +2135,6 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | --- | --- |
 | [Wordstat.yandex.ru](https://wordstat.yandex.ru/) | the estimated number of Yandex searches in the coming month for different keywords |
 | [Trends Google](https://trends.google.com/trends/) |     |
-| [Keywordtool.io](https://keywordtool.io/search/keywords/) | keyword matching for Google, YouTube, Amazon, Ebay, Bing, Instagram, Twitter |
 | [Google Books Ngram Viewer](https://books.google.com/ngrams/) |     |
 | [News Explorer BlueMix](http://news-explorer.mybluemix.net/) |     |
 | [Pinterest Trends](https://trends.pinterest.com/) |     |
