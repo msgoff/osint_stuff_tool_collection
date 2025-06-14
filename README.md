@@ -2251,7 +2251,6 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [flicksurfer.com](http://flicksurfer.com) | alternative way to find anything interesting on Netflix |
 | [flixboss.com](http://flixboss.com) | alternative way to find anything interesting on Netflix |
 | [flickmetrix.com](http://flickmetrix.com) | alternative way to find anything interesting on Netflix |
-| [whatthehellshouldiwatchonnetflix.com](http://whatthehellshouldiwatchonnetflix.com) | alternative way to find anything interesting on Netflix |
 | [netflix-codes.com](http://netflix-codes.com) | alternative way to find anything interesting on Netflix |
 
 [](#tvradio)TV/Radio
