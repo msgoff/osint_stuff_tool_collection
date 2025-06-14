@@ -1018,7 +1018,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Google (universal) Dork Builder](https://addons.mozilla.org/ru/firefox/addon/google-dork-builder/) | Quick create queries with advanced search operator for Google, Bing, Yandex etc. Copy dorks from Google Hacking Database. Save dorks in your own database |
 | [Hakrawler](https://github.com/hakluke/hakrawler) | Extreme(!) fast crawler designed for easy, quick discovery of links, endpoints and assets within a web application. |
 | [0xdork](https://github.com/rlyonheart/0xdork) | Very light and simple #Python tool for Google Dorking |
-| [FilePhish](https://cartographia.github.io/FilePhish/) | Simple online Google query builder for fast and easy document file discovery. |
 | [Snyk.io](https://snyk.io/test/website-scanner/) | Website Vulnerabilities Scanner |
 | [dorks.faisalahmed.me](https://dorks.faisalahmed.me) | online constructor of google dorks for searching "sensitive" wesite pages |
 | [Fast Google Dorks Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan) | Search the website for vulnerable pages and files with sensitive information using 45 types of Google Dorks. |
