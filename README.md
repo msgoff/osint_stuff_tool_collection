@@ -308,7 +308,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Liveuamap](https://liveuamap.com/) |     |
 | [Crisisgroup](https://www.crisisgroup.org/crisiswatch) |     |
 | [Hate Map](https://www.splcenter.org/hate-map) |     |
-| [emmeline.carto.com](https://emmeline.carto.com/me) |     |
 | [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker/?category=us) |     |
 | [Acled data crisis map](https://acleddata.com/dashboard/#/dashboard) |     |
 | [Frontex Migratory Map](https://frontex.europa.eu/we-know/migratory-map/) | click on a country or region to see how many illegal border crossings have been reported there in the last six months. |
@@ -528,11 +527,9 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [One Million Tweet Map](https://onemilliontweetmap.com/) |     |
 | [Tweet Binder](https://www.tweetbinder.com/) | detailed twitter account analyze |
 | [Tweet Sentiment Visualization](https://www.csc2.ncsu.edu/faculty/healey/tweet_viz/tweet_app/) |     |
-| [Tweet Beaver Friends Following](https://tweetbeaver.com/friendsfollowing.php) |     |
 | [Tweet Topic Explorer](http://tweettopicexplorer.neoformix.com/#n=NYTimes) |     |
 | [Twitter Money Calculator](https://influencermarketinghub.com/twitter-money-calculator/) |     |
 | [Twemex](https://chrome.google.com/webstore/detail/twemex-sidebar-for-twitte/amoldiondpmjdnllknhklocndiibkcoe/related) | Twitter sidebar with: quick commands for searching your own tweets, lists, users tweets and replies; quick links to quotes of current tweet, user's most liked tweets and conversations. |
-| [Vicintias.io](https://www.vicinitas.io/free-tools/download-twitter-followers) | very fast export of information about Twitter account followers to XLSX |
 | [Twitter Shadow Ban Checker](https://shadowban.yuzurisa.com/) | If you suddenly notice that your account's tweets have decreased in views and the flow of audience has slowed down, it's worth checking to see if your account has been shadow-banned. |
 | [Twitter Mentions Map](https://www.twitonomy.com/mentions-map.php) | A world map that shows the locations of users who mention you in their tweets. |
 | [Twitter URL Scraper](https://apify.com/zuzka/twitter-url-scraper) | A simple tool for analyzing twitter conversations (and other pages). Get profile pictures, user names and the text of the conversation's tweets and replies. Data can be exported to CSV, JSON, XML. |
@@ -688,7 +685,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Reddit Scraper](https://apify.com/trudax/reddit-scraper) | Crawl posts, comments, communities, and users without login. |
 | [Redditsearch.io](https://redditsearch.io/) | Reddit search tool |
 | [Reddloader.com](https://reddloader.com) | Reddit video downloader |
-| [Camas Reddit Search](https://camas.github.io/reddit-search/) | Search engines for Reddit with a lot of filtres |
 | [Reditmetis](https://redditmetis.com/) | View statistics fot Reddit users's account |
 | [Repostsleuth](https://repostsleuth.com/) | Reddit trends analyzer |
 | [Redetective](https://www.redective.com/) | Reddit search tool |
@@ -810,7 +806,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Instagram Location Search](https://github.com/bellingcat/instagram-location-search) | Get the names and links to all the locations on Instagram tied to specific geographic coordinates |
 | [Inflact Instagram Search](https://inflact.com/tools/instagram-search/) | Instagram profiles search tool with the ability to filter results by number of subscribers, number of posts, gender, categories (personal blog, artist, product/service etc.) |
 | [Terra](https://github.com/xadhrit/terra) | Collect information about twitter and Instagram accounts |
-| [Instagram analyzer and viewer](https://gramho.com/) |     |
 | [Sterraxcyl](https://github.com/novitae/sterraxcyl) | Tool for export to excel someone's #Instagram followers and/or following with details (Username, FullName, Bio, Followers and Following count, etc) |
 | [Storysaver.net](https://www.storysaver.net) | download Instagram stories. |
 | [Instagram Scraper](https://apify.com/jaroslavhejlek/instagram-scraper) | Scrape info about accounts, posts, stories and comment |
@@ -887,12 +882,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Sn0int framework module for Pornhub](https://sn0int.com/r/kpcyrd/pornhub) |     |
 
 
-
-### [](#bluesky)Bluesky
-
-| Link | Description |
-| --- | --- |
-| [BlueSky users stats](https://vqv.app/stats/chart) |  |
 
 ### [](#steam)Steam
 
@@ -1014,7 +1003,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Google (universal) Dork Builder](https://addons.mozilla.org/ru/firefox/addon/google-dork-builder/) | Quick create queries with advanced search operator for Google, Bing, Yandex etc. Copy dorks from Google Hacking Database. Save dorks in your own database |
 | [Hakrawler](https://github.com/hakluke/hakrawler) | Extreme(!) fast crawler designed for easy, quick discovery of links, endpoints and assets within a web application. |
 | [0xdork](https://github.com/rlyonheart/0xdork) | Very light and simple #Python tool for Google Dorking |
-| [Snyk.io](https://snyk.io/test/website-scanner/) | Website Vulnerabilities Scanner |
 | [dorks.faisalahmed.me](https://dorks.faisalahmed.me) | online constructor of google dorks for searching "sensitive" wesite pages |
 | [Fast Google Dorks Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan) | Search the website for vulnerable pages and files with sensitive information using 45 types of Google Dorks. |
 | [GO DORK](https://github.com/dwisiswant0/go-dork) | Fast (like most #osint scripts written in #golang) tool for automation work with Google Dorks. |
@@ -1132,7 +1120,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [BGPView](https://bgpview.io/) | web-browsing tool and an API that lets you gather information about the current state and structure of the internet, including ASNs, IP addresses, IXs, BGP Downstream & Upstream Peers, and much more |
 | [Terms of Service Didn't Read](https://tosdr.org/) | find out what interesting privacy and confidentiality clauses are in the license agreements of popular websites and apps |
 | [analyzeid.com](https://analyzeid.com) | find websites with the same owner by domain name. Checking for email, Facebook App ID and nameserver matches |
-| [MMHDAN](https://mmhdan.herokuapp.com) | Calculate a fingerprint of a website (HTML, Favicon, Certificate in SHA1, SHA256, MD5, MMH3) and create the quick links to search it in IOT search engines |
 | [Favhash](https://github.com/imtiazsec/favhash) | Simple script to calculate favicon hash for searching in Shodan. |
 | [Favicon Hasher](https://faviconhasher.codejavu.tech/) | Favicon.ico files hashes is a feature by which you can find domains related with your target. This tool generates hashes for all favicon.ico on the site (+ quick links to find them in Shodan, Censys, Zoomeye) |
 | [FavFreak](https://github.com/devanshbatham/FavFreak) | #python tool for using favicon.ico hashes for finding new assets/IP addresses and technologies owned by a company. |
@@ -1231,7 +1218,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [RansomLook](https://www.ransomlook.io/) | "Yet another Ransomware gang tracker" (c) Group profiles, recent updates, forums and markets list + some stats. A real treasure cybercrime researchers. |
 | [Whois Freaks](https://whoisfreaks.com/) | API which allows you to search Whois-database (430M+ domains since 1986) by keyword, company name or owner name |
 | [Expireddomains.net](https://www.expireddomains.net/deleted-domains/) | lists of deleted and expired domains (last 7 days) |
-| [InstantDomainSearch](https://instantdomainsearch.com/domain/sale) | search for domains for sale |
 | [WhoisDS.com](http://whoisds.com/newly-registered-domains) | database of domains registered in the last day |
 | [API Domaindumper](https://api.domaindumper.com) | An interesting tool for researchers of IT history and data journalists. Just an FREE API that shows how many sites were registered in each domain zone on a given day (since January 1, 1990) |
 | [ptrarchive.com](http://ptrarchive.com/) | search by 230 billion DNS records retrieved from 2008 to the present. |
@@ -1375,13 +1361,11 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Pixsy](https://pixsy.com) | allows to upload pictures from computer, social networks or cloud storages, and then search for their duplicates and check if they are copyrighted |
 | [EveryPixel](https://www.everypixel.com/) | Reverse image search engine. Search across 50 leading stock images agencies. It's possible to filter only free or only paid images. |
 | [openi.nlm.nih.gov](https://openi.nlm.nih.gov/gridquery) | Reverse image search engine for scientific and medical images |
-| [DepositPhotos Reverse Image Search](https://ru.depositphotos.com/search/by-images.html) | tool for reverse image search (strictly from DepositPhoto's collection of 222 million files). |
 | [Portrait Matcher](http://zeus.robots.ox.ac.uk/portraitmatcher/index?error=agree) | Upload a picture of a face and get three paintings that show similar people. |
 | [Image So Search](https://image.so.com/) | Qihoo 360 Reverse Images Search |
 | [GORIS](https://github.com/tanaikech/goris) | Command line tool for Google reverse image search automation. It can find links to similar pictures by URL or by file. |
 | [Pill Identifier](https://www.webmd.com/pill-identification/default.htm) | How to know which pill drug is pictured or accidentally found on the floor of your home? Use a special online identifier that suggests possible variations based on colour, shape and imprint. |
 | [Logobook](http://www.logobook.com/) | help to see which companies have a logo that looks like a certain object. You can use the suggested variants to geolocate photo. |
-| [Immerse Zone](http://immerse.zone) | Reverse Image Search Engine. Search by uploaded image or URl; Search by sketch (it can be drawn directly in the browser); Search by quote (can be selected from the catalog) |
 | [Lexica](https://lexica.art/) | Download the image to find thousands Stable Diffusion AI artworks that are as similar to it as possible. You can also search by description and keywords. |
 | [Numlookup Reverse Image Search](https://www.numlookup.com/reverse-image-search) | The results are very different from Yandex Images and Google Lens search results, as the service only searches for links to exact matches with the original picture. |
 | [Google Reverse Image Search Fix](https://googlelens.imagesniper.eu/) | 
@@ -1600,7 +1584,6 @@ Google lens is not too user friendly for investigations. But this tool will help
 | [SearXNG](https://github.com/searxng/searxng) | Free internet metasearch engine which aggregates results from more than 70 search services. No tracking. Can be used over Tor |
 | [Yeggi](https://www.yeggi.com/) | 3D printer model search engine. There are more than 3 million 700 thousand objects in the database. There are both paid and free. |
 | [Memegine](https://memegine.com/) | A search engine to find memes. Helps you find rare and obscure memes when Google fails. |
-| [ChatBottle](https://chatbottle.co/bots/) | A search engine to find the weirdest and most highly specialised chatbots for all occasions. There are over 150,000 bots in the database. Of these, 260 are chatbots related to cats for Facebook Messenger. |
 | [search3](https://search3.com/) | New privacy search engine (no trackers + just a little bit of ads). With NFT search tab and cryptocurrencies realtime info tab |
 | [DensePhrase](http://densephrases.korea.ac.kr/) | This tool searches phrase-level answers to your questions or retrieve relevant passages in real-time in 5 million Wikipedia articles. |
 | [metaphor systems](https://metaphor.systems/) | A search engine with a new and unusual search method. This AI "trained to predict the next *link* (similar to the way GPT-3 predicts the next *word*)". Enter a statement (or an entire dialog) and Metaphor will end it with the appropriate link. |
@@ -1611,7 +1594,6 @@ Google lens is not too user friendly for investigations. But this tool will help
 | --- | --- |
 | [S](https://github.com/zquestz/s) | Search from command line in 106 different sources |
 | [searchall.net](https://searchall.net) | 75 fields for quick entry of queries to different search services on one page |
-| [Query-server](https://query-server.herokuapp.com) | A tool that can send queries to popular search engines (list in picture) and return search results in JSON, CSV or XML format. |
 | [Search Engines Scraper](https://github.com/tasos-py/Search-Engines-Scraper) | Collects search results in text files. It's possible to search Google, Bing, DuckDuckGo, AOL and other search engines. |
 | [Trufflepiggy (Context Search)](https://chrome.google.com/webstore/detail/trufflepiggy-context-sear/chffnhocnckigoapjdienmaphjnljpmo) | Search selected text in different search engines and sites from Google Chrome context menu. |
 | [Search Patterns](https://chrome.google.com/webstore/detail/search-patterns/hjlahhonnlceifaecpjejlhhgjkipnbj/related?hl=zh-CN&gl=001) | A tool that analyzes autosuggest for #Google and #YouTube search queries (questions, prepositions, comparisons, and words starting with different letters of the alphabet). |
@@ -1628,9 +1610,7 @@ Google lens is not too user friendly for investigations. But this tool will help
 | [TheDevilsEye](https://github.com/rlyonheart/thedevilseye) | Search links in #darknet (.onion domain zone) from command line without using a Tor network. |
 | [Onion Search Engine (+maps, mail and pastebin)](https://onionsearchengine.com/) |     |
 | [KILOS Darknet Search Engine](http://dnmugu4755642434.onion.pet/captcha) |     |
-| [Ahmia Link Graph](https://ahmia.fi/stats/link_graph/) | Enter the name of the site in the .onion domain zone and see what other sites in the #onion domain zone it is associated with. |
 | [Pasta](https://github.com/Kr0ff/Pasta) | Pastebin scraper, which generates random paste addresses and checks if there is any text in them. |
-| [Dark Web Scraper](https://apify.com/epcsht/darkweb-scraper#dark-web-scraper) | Specify the start link and depth of crawl to research the .onion website for sensitive data (crypto wallets, API keys, emails, phone numbers, social media profiles). |
 | [Pastebin-Bisque](https://github.com/bbbbbrie/pastebin-bisque) | Command line #python tool, which downloads all the pastes of a particular #Pastebin user. |
 | [Dark Fail](https://dark.fail/) | List of several dozen services in the .onion domain (marketplaces, email clients, VPN services, search engines) with up-to-date links and status (online/offline) |
 | [Darkweb archive](https://darkweb-archive.activetk.jp/) | Free simple tool that allows you to download website files in the .onion domain zone as an archive with html, css, javascript and other files. |
@@ -1759,7 +1739,6 @@ Google lens is not too user friendly for investigations. But this tool will help
 | --- | --- |
 | [The Time Machine](https://github.com/anmolksachan/TheTimeMachine) | Tool for gathering domain info from WayBackMachine: - fetches subdomains from waybackurl; - search for /api/JSON/Configuration endpoints and many more (view pic) |
 | [Web Archives](https://chrome.google.com/webstore/detail/web-archives/hkligngkgcpcolhcnkgccglchdafcnao/related) | extension for viewing cached web page version in 18 search engines and services |
-| [EasyCache](https://gaetanlhf.github.io/EasyCache/) | quick search website old versions in different search engines and archives |
 | [cachedview.b4your.com](https://cachedview.b4your.com/en/) | quick search website old versions in different search engines and archives |
 | [Internet Archive Wayback Machine Link Ripper](https://tools.digitalmethods.net/beta/internetArchiveWaybackMachineLinkRipper/#) | Enter a host or URL to retrieve the links to the URL's archived versions at [http://wayback.archive.org](http://wayback.archive.org). A text file is produced which lists the archive URLs. |
 | [Waybackpack](https://github.com/jsvine/waybackpack) | download the entire #WaybackMachine archive for a given URL. You can only download versions for a certain date range (date format YYYYMMDDhhss) |
@@ -1930,7 +1909,6 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Alternate Spelling Finder](https://datayze.com/alternate-spelling-finder) | When searching for information by name, remember that the same name can be recorded in documents and files very differently, as people of different nationalities perceive sounds differently. |
 | [Translit.net](https://translit.net) | Sometimes it happens that a person's name is written in Cyrillic, but you can find a lot of info about him in Google if you type his transliteration "Ivan Ivanov". This tool will come in handy when working with Russian, Belarusian, Ukrainian, Armenian names |
 | [NAMINT](https://seintpl.github.io/NAMINT/) | Enter first, middle (or nickname) and last name, and press Go! to see possible search patterns and links (Google, Yandex, Facebook, Twitter, Linkedin and others social media) |
-| [Username Availability Checker](https://username-check.herokuapp.com/) | Simple online tool that checks if a user with a certain nickname is present on popular social networks. Very far behind Maigret/WhatsMyName in terms of number of services, but suitable for a quick check. |
 | [BlackBird](https://github.com/p1ngul1n0/blackbird) | \- Search username across 200+ sites; - API username check (Protonmail, PlayerDB, Hackthebox etc); - Check archived Twitter accounts. |
 | [Nameberry](https://nameberry.com/search?q=john) | When you are looking for mentions of a person on social media, remember that one name can have dozens of different spelling variations. Ideally, you should check them all, or at least the most popular ones. |
 | [WhatsMyName](https://whatsmyname.app) | With Holehe and Maigret, WhatsMyName is one of the most powerful Username enumeration tools. |
@@ -2184,7 +2162,6 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | --- | --- |
 | [WIPO.int](https://www3.wipo.int/branddb/en/) | Global Brands Database (46,020,000 records) |
 | [TMDN Design View](https://www.tmdn.org/tmdsview-web/) | Search 17 684 046 products designs across the European Union and beyond |
-| [TESS](https://tmsearch.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk) | Search engine for #USA trademarks |
 
 [](#tendershipment-information-search)Tender/shipment information search
 ========================================================================
