@@ -525,7 +525,6 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Whotwi](https://en.whotwi.com/) | A free online tool for analysing your #Twitter account: - shows the mutual following; - search for tweets by calendar; - list of most active readers; - analysis of daily activity, hashtags and more. |
 | [Treeverse.app](https://treeverse.app) | view dialogs in Twitter as a graph |
 | [Hashtagify](https://hashtagify.me/) | compare the popularity of the two hashtags |
-| [Scoutzen](https://www.scoutzen.com/twitter-lists/search) | search twitter lists by keywords |
 | [One Million Tweet Map](https://onemilliontweetmap.com/) |     |
 | [Tweet Binder](https://www.tweetbinder.com/) | detailed twitter account analyze |
 | [Tweet Sentiment Visualization](https://www.csc2.ncsu.edu/faculty/healey/tweet_viz/tweet_app/) |     |
@@ -2025,7 +2024,6 @@ DeHashed API tool allows to automate this process and search large lists of inpu
 | [Annotely](https://annotely.com/editor) | Perfectly simple tool for putting an arrow on a screenshot, highlighting some detail or blurring personal data. |
 | [Pramp](https://www.pramp.com/) | The service allows you to take five free (!) online #coding and #productmanagement interview training sessions with peers |
 | [RemindWhen](http://www.remindmewhen.io/) | Simple app that reminds you on email if your favorite country opens for tourists from your country. |
-| [Web--proxy](https://web--proxy.herokuapp.com/) | free web proxy |
 | [Google Docs Voice Comments](https://chrome.google.com/webstore/detail/record-voice-comments-in/lbfofpndjldbnhnhibhmggblcbpoomon) | simple trick to save time. Voice comments in GoogleDocs, Sheets, Slides, and Forms. |
 | [Text to ASCII Art Generator (TAAG)](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20) | This site will help you make atmospheric lettering for your command line tool or README. |
 | [Snow](https://workspace.google.com/u/0/marketplace/app/show/82177279234?hl=ru&pann=docs_addon_widget) | A very simple add-on that speeds up and simplifies the formatting of #GoogleDocs. "Show" shows non-printable characters (spaces, tabs, page breaks, indents, etc.) |
